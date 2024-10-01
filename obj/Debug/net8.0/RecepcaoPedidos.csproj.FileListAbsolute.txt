@@ -1,0 +1,14 @@
+C:\Users\goliveira\Desktop\Eximia\RecepcaoPedidos\bin\Debug\net8.0\RecepcaoPedidos.exe
+C:\Users\goliveira\Desktop\Eximia\RecepcaoPedidos\bin\Debug\net8.0\RecepcaoPedidos.deps.json
+C:\Users\goliveira\Desktop\Eximia\RecepcaoPedidos\bin\Debug\net8.0\RecepcaoPedidos.runtimeconfig.json
+C:\Users\goliveira\Desktop\Eximia\RecepcaoPedidos\bin\Debug\net8.0\RecepcaoPedidos.dll
+C:\Users\goliveira\Desktop\Eximia\RecepcaoPedidos\bin\Debug\net8.0\RecepcaoPedidos.pdb
+C:\Users\goliveira\Desktop\Eximia\RecepcaoPedidos\obj\Debug\net8.0\RecepcaoPedidos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goliveira\Desktop\Eximia\RecepcaoPedidos\obj\Debug\net8.0\RecepcaoPedidos.AssemblyInfoInputs.cache
+C:\Users\goliveira\Desktop\Eximia\RecepcaoPedidos\obj\Debug\net8.0\RecepcaoPedidos.AssemblyInfo.cs
+C:\Users\goliveira\Desktop\Eximia\RecepcaoPedidos\obj\Debug\net8.0\RecepcaoPedidos.csproj.CoreCompileInputs.cache
+C:\Users\goliveira\Desktop\Eximia\RecepcaoPedidos\obj\Debug\net8.0\RecepcaoPedidos.dll
+C:\Users\goliveira\Desktop\Eximia\RecepcaoPedidos\obj\Debug\net8.0\refint\RecepcaoPedidos.dll
+C:\Users\goliveira\Desktop\Eximia\RecepcaoPedidos\obj\Debug\net8.0\RecepcaoPedidos.pdb
+C:\Users\goliveira\Desktop\Eximia\RecepcaoPedidos\obj\Debug\net8.0\RecepcaoPedidos.genruntimeconfig.cache
+C:\Users\goliveira\Desktop\Eximia\RecepcaoPedidos\obj\Debug\net8.0\ref\RecepcaoPedidos.dll
